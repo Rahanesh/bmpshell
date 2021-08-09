@@ -32,7 +32,7 @@ $ python dkmc.py
 
 
 DKMC - Don't kill my cat
-         Evasion tool - Mr.Un1k0d3r RingZer0 Team
+         Evasion tool - Mr.Un1k0d3r RingZer0 Team Rahanesh.ir
      |\      _,,,---,,_
     /,`.-'`'    -.  ;-;;,_
    |,4-  ) )-,_..;\ (  `'-'
@@ -41,7 +41,7 @@ DKMC - Don't kill my cat
 ----------------------------------------------------
 Select an option:
 
-        [*] (gen)       Generate a malicious BMP image
+        [*] (gen)       Generate a malicious BMP image-Rahanesh.ir
         [*] (web)       Start a web server and deliver malicious image
         [*] (ps)        Generate Powershell payload
         [*] (sc)        Generate shellcode from raw file
@@ -102,7 +102,7 @@ Built-in Web Server to deliver the image
 (web)>>> run
         [+] Starting web server on port 8080
 
-127.0.0.1 - - [30/May/2017 16:18:43] "GET /output-1496175261.bmp HTTP/1.1" 200 -
+127.0.0.1 - - [30/May/2020 16:18:43] "GET /output-1496175261.bmp HTTP/1.1" 200 -
 ```
 
 Final step require you to run the PowerShell oneliner on the victim system.
@@ -111,4 +111,4 @@ Final step require you to run the PowerShell oneliner on the victim system.
 Support more file format.
 
 # Credit
-Mr.Un1k0d3r RingZer0 Team 2016
+Mr.Un1k0d3r RingZer0 Team 2016-Rahanesh.ir 2021
