@@ -1,4 +1,7 @@
+
 # Don't Kill My Cat (DKMC)
+گربه مرا نکش
+ابزاری که به زبان پایتون نوشته شده و  شل کد مبهمی را ایجاد کرده و آن را در چند بایت از فضای یک فایل عکس BMP ذخیره میکند و در سیستم هدف دور از چشم آنتی ویروس ها اجرا می شود.
 
 `WINDOWS 10 now limit the shellcode payload from running properly due to the need of a RWX page to decode and execute the shellcode. DKMC can be update the set a memory page with properly permission.`
 
@@ -17,8 +20,8 @@ Presentation on how it works internally can be found here: https://github.com/Mr
 # Installation
 
 ```
-$ git clone https://github.com/Mr-Un1k0d3r/DKMC 
-$ cd DKMC
+$ git clone https://github.com/rahanesh/BMPShell
+$ cd BMPShell
 $ mkdir output
 ```
 
