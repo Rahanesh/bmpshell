@@ -20,13 +20,13 @@ Presentation on how it works internally can be found here: https://github.com/Mr
 # Installation
 
 ```
-$ git clone https://github.com/rahanesh/BMPShell
-$ cd BMPShell
+$ git clone https://github.com/rahanesh/bmpshell
+$ cd bmpShell
 $ mkdir output
 ```
 
 # Usage
-Launching DKMC
+Launching DKMC Rahanesh.ir
 ```
 $ python dkmc.py
 
